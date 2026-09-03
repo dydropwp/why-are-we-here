@@ -24,7 +24,7 @@ Beattie, D. (2020). *The Art of Code* [Video]. NDC Conferences.
 https://www.youtube.com/watch?v=6avJHaC3C2U
 
 Ihde, D. (1990). *Technology and the lifeworld: From garden to earth*. Indiana University Press.  
-https://iupress.org/9780253205605/technology-and-the-lifeworld/
+https://books.google.com/books/about/Technology_and_the_Lifeworld.html?id=u2pRAAAAMAAJ
 
 Lovelace, A. A. (1843). Notes by the translator. In L. F. Menabrea, *Sketch of the analytical engine invented by Charles Babbage*. *Scientific Memoirs*, 3, 666–731.  
 https://www.fourmilab.ch/babbage/sketch.html
